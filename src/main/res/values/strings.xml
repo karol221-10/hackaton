@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Appka</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="open_map">Otwórz mapę</string>
+    <string name="title_activity_okregi_maps">mapa okregow wyborczych</string>
+</resources>

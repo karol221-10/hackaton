@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "682736218703",
+    "firebase_url": "https://hackathon-9b60c.firebaseio.com",
+    "project_id": "hackathon-9b60c",
+    "storage_bucket": "hackathon-9b60c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682736218703:android:59d376f4a04c6efa",
+        "android_client_info": {
+          "package_name": "kielce.hackathon.pl.appka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682736218703-q1pcqj23n19ndds3snvk3t50k3emffgn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "682736218703-q1pcqj23n19ndds3snvk3t50k3emffgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF-Y9Cfa89h1fjAR_XNC-2T7WUh6xhOmA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
